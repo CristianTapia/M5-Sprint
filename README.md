@@ -1,4 +1,4 @@
-# M5-Sprint
+# M5-Sprint | Bases de Datos
 
-** Cristian Tapia
-** Carlos González
+- Cristian Tapia
+- Carlos González
